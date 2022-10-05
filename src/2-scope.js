@@ -17,7 +17,7 @@ function tomarCurso() {
    * Descomenta la siguiente linea y
    * veras que ahora estas tomando una clase de cocina.
    */
-  // curso = "Cocina";
+  curso = "Cocina";
   let canal = "Código facilito";
   console.log(
     `Hola! ${nombre}, has tomado el curso ${curso} a través de ${canal}`
@@ -39,4 +39,4 @@ function reproducirVideo() {
  * Playground.
  */
 tomarCurso();
-// reproducirVideo();
+reproducirVideo();
