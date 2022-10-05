@@ -5,7 +5,7 @@
  * Básicamente es la raíz de nuestro script, donde creamos las primeras declaraciones
  * y expresiones.
  */
-let nombre = "<Pon tu nombre aquí>";
+let nombre = "Oreo"; //esto es mas real
 let curso = "Esenciales de JavaScript";
 
 function tomarCurso() {
